@@ -1,0 +1,14 @@
+
+# Node / builds
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+dist/
+build/
+# Env & OS
+.env
+*.env
+*.log
+.DS_Store
+# Archives
+*.zip
